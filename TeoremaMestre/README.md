@@ -1,6 +1,6 @@
 ## Teorema Mestre
 
-$$T(n) = a ∗ T(n/b) + f(n)$$
+### T(n) = a ∗ T(n/b) + f(n)
 
 Sendo a ≥ 1, b > 1 e f(n) não negativa.
 
